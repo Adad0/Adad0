@@ -7,11 +7,11 @@
 <table border="0">
 <tr>
 <!-- LEFT: animated ASCII portrait -->
-<td width="50%" align="center">
+<td align="center" valign="middle" width="50%">
 <img src="animated_profile.svg" alt="Adad ASCII Art" width="100%">
 </td>
 <!-- RIGHT: info card -->
-<td width="50%">
+<td valign="middle" width="50%">
 <h3>About Me</h3>
 <ul>
 <li>Software Engineering graduate of Istinye University.</li>
